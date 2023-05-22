@@ -1,3 +1,5 @@
+# LeetCode 25. Problem
+
 # Kod Hakkında
 
 1- Tek yönlü bağlı liste oluşturulur.
