@@ -1,6 +1,6 @@
 # LeetCode 25. Problem
 
-![Problem25](https://github.com/yigitboracagiran/TR_Tek_Yonlu_Bagli_Listede_K-Grup_Ters_Cevirme/assets/111417887/51209788-c9f0-4f4c-a1c2-c9e58cc81bad)
+![Problem25](https://github.com/yigitboracagiran/TR_Tek_Yonlu_Bagli_Listede_K-Grup_Ters_Cevirme/assets/111417887/d8cd8f9d-0d64-45eb-9bad-200b940cd4e7)
 
 # Kod Hakkında
 
