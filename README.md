@@ -26,6 +26,10 @@ Parametre 3 olduğu için gruplar 3'lü oluyor: ( 1->2->3 ) -> ( 3->2->1 ), ( 4-
 
 # Kodu Ubuntu'da Derleme ve Calıştırma
 
-1- `g++ kGrupTersCevirme.cpp -o kGrupTersCevirme`
+1- Kodun olduğu dizine terminalde gidilir.
 
-2- `./kGrupTersCevirme`
+Ör: `cd Desktop/`
+
+2- `g++ kGrupTersCevirme.cpp -o kGrupTersCevirme`
+
+3- `./kGrupTersCevirme`
