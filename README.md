@@ -6,7 +6,7 @@
 
 Ör: Bu kodda 1->2->3->4->5->6->7
 
-2- Fonksiyona parametre olarak ilk elemanı ve grupdaki düğüm sayısı ( k ) parametresi verilerek fonksiyon çalıştırılır.
+2- Fonksiyona parametre olarak ilk elemanı ve gruptaki düğüm sayısı ( k ) parametresi verilerek fonksiyon çalıştırılır.
 
 Ör: Bu koddaki parametreler ( head, 2 ) ve ( head, 3 )
 
