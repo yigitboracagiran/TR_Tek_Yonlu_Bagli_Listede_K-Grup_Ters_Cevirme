@@ -1,5 +1,7 @@
 # LeetCode 25. Problem
 
+![Problem25](https://github.com/yigitboracagiran/TR_Tek_Yonlu_Bagli_Listede_K-Grup_Ters_Cevirme/assets/111417887/51209788-c9f0-4f4c-a1c2-c9e58cc81bad)
+
 # Kod Hakkında
 
 1- Tek yönlü bağlı liste oluşturulur.
