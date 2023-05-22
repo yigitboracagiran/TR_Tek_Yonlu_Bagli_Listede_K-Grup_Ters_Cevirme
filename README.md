@@ -12,11 +12,11 @@
 
 4- Bu foksiyon da başlangıç düğümünden itibaren ( head ) bir gruptaki düğüm sayısı kadarki düğümlere kadar olan düğümleri ters çevirir.
 
-Ör: Bu kodda ( head, 2 ) İçin -> 2 1 4 3 6 5 7 
+Ör: Bu kodda ( head, 2 ) İçin -> 2->1->4->3->6->5->7 
 
 Parametre 2 olduğu için gruplar 2'li oluyor. ( 1->2 ) -> ( 2->1 ), ( 3->4 ) -> ( 4->3 ), ( 5->6 ) -> ( 6-5 ), ( 7 ) (2 eleman kalmadığı için 7'ye dokunulmuyor.)
 
-Ör: Bu kodda ( head, 3 ) İçin -> 3 2 1 6 5 4 7
+Ör: Bu kodda ( head, 3 ) İçin -> 3->2->1->6->5->4->7
 
 Parametre 3 olduğu için gruplar 3'lü oluyor. ( 1->2->3 ) -> ( 3->2->1 ), ( 4->5->6 ) -> ( 6->5->4 ) , ( 7 ) (3 eleman kalmadığı için 7'ye dokunulmuyor.)
 
