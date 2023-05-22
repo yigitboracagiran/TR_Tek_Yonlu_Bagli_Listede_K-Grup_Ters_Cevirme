@@ -30,6 +30,10 @@ Parametre 3 olduğu için gruplar 3'lü oluyor: ( 1->2->3 ) -> ( 3->2->1 ), ( 4-
 
 Ör: `cd Desktop/`
 
-2- `g++ kGrupTersCevirme.cpp -o kGrupTersCevirme`
+2- Kod derlenir.
 
-3- `./kGrupTersCevirme`
+Ör: `g++ kGrupTersCevirme.cpp -o kGrupTersCevirme`
+
+3- Kod çalıştırılır.
+
+Ör: `./kGrupTersCevirme`
